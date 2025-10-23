@@ -9,3 +9,7 @@ print("每日增长的系数是：%s，经过%d天的增长后，股价达到了
     growth_days,
     stock_price*stock_price_daily_growth_factor**growth_days
 ))
+
+
+
+
