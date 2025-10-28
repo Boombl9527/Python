@@ -1,4 +1,5 @@
-"""import random
+"""
+import random
 num =random.randint(1,10)
 
 guess_num = int(input("请输入第一次猜测："))
